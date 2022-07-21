@@ -10,8 +10,8 @@
 //   link.style.textDecorationStyle = "wavy";
 // }
 
-const h2 = document.querySelector("h2");
+// const h2 = document.querySelector("h2");
 
-h2.classList.add("purple", "border");
+// h2.classList.add("purple", "border");
 // h2.classList.remove("border");
 // h2.classList.toggle("purple");
